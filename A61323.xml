@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>George Starkey's pill vindicated from the unlearned alchymist and all other pretenders with a brief account of other excellent, specifick remedies of extraordinary virtue for the honour and vindication of pyrotechny.</title>
+            <author>Starkey, George, 1627-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61323</idno>
+            <idno type="STC">Wing S5283</idno>
+            <idno type="STC">ESTC R292</idno>
+            <idno type="EEBO-CITATION">11941724</idno>
+            <idno type="OCLC">ocm 11941724</idno>
+            <idno type="VID">51283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61323)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51283)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 42:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>George Starkey's pill vindicated from the unlearned alchymist and all other pretenders with a brief account of other excellent, specifick remedies of extraordinary virtue for the honour and vindication of pyrotechny.</title>
+                  <author>Starkey, George, 1627-1665.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>A defense of his pill which he claims has been stolen by Richard Mathews.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alchemy.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:51283:1" rendition="simple:additions"/>
+            <head>George Starkeys PILL VINDICATED From the unlearned Alchymiſt and all other pretenders, With a brief account of other excellent ſpecifick Remedies of Extraordinary virtue, for the honour and vindication of pyrotechny.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill of Mr. <hi>Richard Matthews,</hi> was in truth mine, and that he had the receipt from me, as it is really ſo, and known to very many, ſo it is acknowledged by Mr <hi>Andrews,</hi> Mr <hi>Kendall,</hi> and others, as in the Appen<g ref="char:EOLhyphen"/>dix to the unlearned Alchymiſt may be ſeen, to which I alſo added an Epiſtle, owning, and avowing the ſame.</p>
+            <p>The univerſality of it, was but a miſtake in the unlearned Alchy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>; rather a ſhift he was driven to, for the ſecret being rather a Myſtery of preparation, then a bare receit, was looked on by me as a ſtore-houſe or Common place from which various compoſitions might flow, for the Corrector (as Mr. <hi>Matthews</hi> calls it) is a means by which all vegetall malignity is totally extinguiſhed, and is a true natural means to prepare vegetable concretes by, which being made of ſalts alcaliz<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e and oyls eſſential united, might be advanced with oyl of Cynamon, Mace, Cloves &amp;c. or any other ſort at pleaſure, and might be farther enriched with any ſpirit or tincture made by ſpirits, beſides the alterations to be made by various concretes, in which (as need requires) the latitude of that Pill extends it ſelf to all the Herbs, Seeds, Roots, Gums, Flowers, &amp;c. in the world, as alſo to all oyls, and ſalts (volatile and fixed) of Herbs all ſpirits, and tin<g ref="char:EOLhyphen"/>ctures alſo may be made uſe of, in their time, and place, to alter and vary this preparation as occaſion required.</p>
+            <p>Now Mr. <hi>Matthews</hi> being no ſchollar, nor daring to profeſs gi<g ref="char:EOLhyphen"/>ving advice as a Phyſician, was neceſſitated to take this courſe, to pitch upon one more general compoſition whoſe latitude of virtue was larger then other ſpecifications are, where <hi>Opium</hi> is either wholy leſt out, or added in ſmall quantity, and cry it up for univerſal, leaſt
+<pb n="2" facs="tcp:51283:2"/>if he ſhould have given expectation of any variation of the Pill, as need required, he ſhould be compelled to uſe judgement, in adviſing when and where, and how to make his alterations, which being a task beyond his abilities, he avoided by commending the Pill beyond its proper limits, a profitable, but diſingenuous trick.</p>
+            <p>He that hath read or ſhall read my Books ſent out, to wit Natures Explication and <hi>Helmonts</hi> Vindication, and Pyrotechny aſſerted, ſhall finde the ground of theſe and far nobler preparations; and that theſe Pills, and ſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h other ſpecifick remedies, are onely ſucced<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eous to greater ſecrets yet ſufficient for the full cure of many diſeaſes, which need no other, and where the effect may be attained by an inferiour, what need a more rare and ſecret remedy be ſought? I ſhall therefore ſay no more by preamble, but come to the buſineſs intended, and ſhall give the virtues and manner of uſe of ſeveral medicines made, and publickly expoſed to ſale by me. And firſt,</p>
+            <div type="part">
+               <head>My Diaphoretick Diuretick and Anodynous Elixir.</head>
+               <p>Its opperation is by ſweat, and urine, aſſwaging pains or any ordi<g ref="char:EOLhyphen"/>nary violent diſturbance in the body, it pacifies the Archeus, and by a reſolutive faculty opens obſtructions very powerfully and pleaſant<g ref="char:EOLhyphen"/>ly, it is a medicine deſerves great commendation, and hath been (in Mr. <hi>Matthews</hi> his name) very famous all England over, and in neighbouring Countreys.</p>
+               <p>This of mine exceeds his beyond compariſon, as I ſhall appeal to any mans experience, For his was my way uſed in my younger years, from 1651 till 1655. when I communicated it to him, ſince when I have ſo far exceeded my preparations therein, that it is below me to make them as formerly, and thoſe that deal with me will not buy them, beſides he did not come up to the height of that preparation as I taught him, as Mr. <hi>Kendal</hi> and others, whom I taught the ſame proceſs, know who make that common preparation far better then Mr. <hi>Matthews,</hi> for his Pill wanting the cloſing part of an Artiſt, is fain to begiven with Cautions of lying ſo many hours, to wit four<g ref="char:EOLhyphen"/>teen at leaſt; and yet it makes giddy, ſuſpends the urine, and cauſeth great drought, and burning heats, with coſtiveneſs, the ſymptomes of a defect in the opperation, which I would not after teach Maſter <hi>Matthews</hi> to mend becauſe he had dealt ill by me, but Mr. <hi>Kendal</hi> Mris. <hi>Marden,</hi> and Mr. <hi>Luddinton,</hi> Mr. <hi>Andrews</hi> and others do mend that fault, and finde the difference beyond credit. But my Pills are far higher graduated then any of theirs, as may be tryed in Autumnal, and winter Agues, old Coughs, old Pains, old Gonor<g ref="char:EOLhyphen"/>rhaea's,
+<pb n="3" facs="tcp:51283:2"/>and old inveterate venereall maladies, old obſtinate uterine ob<g ref="char:EOLhyphen"/>ſtructions, and the like, in which Caſes experience will ſoon diſcover the excellency of mine beyond any of theirs, ſo as not to admit a pa<g ref="char:EOLhyphen"/>raled, nor compariſon.</p>
+               <p>The preparations is <hi>opiate,</hi> and he that doubts the ſafety of that when corrected, let him conſider, that there is ſcarce any Antidote or Theriacle, without it, and the virtues of ſuch <hi>opiate</hi> Compoſitions, were by the Antients held in great eſteem, of which ſort of prepara<g ref="char:EOLhyphen"/>tions he that pleaſeth may read at large in <hi>Scroderus,</hi> and <hi>Mirepſus</hi> Of <hi>Opium</hi> ſaith the noble <hi>Helmont:</hi> happy is that ſick party, whoſe Phyſician knows how to correct the deadly quality of <hi>Opium</hi> &amp;c. and inſtances in the Cough, how great effects it hath had in one nights time, Yea experience confirms this daily in hundreds of ex<g ref="char:EOLhyphen"/>amples, in acute diſeaſes eſpecially, or in acute paroxiſmes of Chro<g ref="char:EOLhyphen"/>nical diſtempers, ſo that where ſuch a cloud of witneſſes appear, to deny or doubt a thing, is ſo to run mad in malice, as to incur the Cenſure of Creſtes: In my <hi>Pyrotechny</hi> aſſerted, as alſo in natures ap<g ref="char:EOLhyphen"/>plication, I have demonſtrated the ſafety, and excellency of theſe preparations ſo clearly and fully, that I need but ſend the Reader thither for ſatisfaction, and ſhall briefly give directions, when, and how to adminiſter this Pill, and in what caſes eſpecially it is moſt effectuall.</p>
+               <p>In continual Fevers, ſuch as are common upon ſurfets, or colds, it is a very effectual and ſpeedy remedy, in ſuch caſes, give of it an or<g ref="char:EOLhyphen"/>dinary doſe at a time, and let the party be attended ſo as to ſweat ſoundly, giving him drink in his ſweat, if he deſires it, but let it be warm, and in each draught of drink he deſires, give him five or ſix drops of true ſpirit of Salt, (not that raſcall phlegme, which is of late cryed up about town) which true ſpirit is ponderous, tincted, and eminently acid, this ſpirit helps both to promote ſweat, and to take away all the foulneſs in the tongue, throat, and mouth of the ſto<g ref="char:EOLhyphen"/>mack, and ſo after ſweating cools the body and howels, exceedingly, to the great eaſe, comfort, and refreſhing of the patient.</p>
+               <p>You may either give the medicine in form of a Pill, and let the party drink a draught of warm Ale or poſſet drink after it or diſſolve it in warm Ale or burnt wine, and let him drink it, but lye ſo, as to promote ſweat by and by after the taking of it.</p>
+               <p>But where the weakneſs of the party is great, or the age very yong, let a doſe convenient be diſsolved in ſome pleaſant liquor, and give it gradually at 4, 5, or 6, times, allowing two hours between each time, and ſo nature finds help inſenſibly, and revives oſtentimes be<g ref="char:EOLhyphen"/>yond expectation.</p>
+               <pb n="4" facs="tcp:51283:3"/>
+               <p>The ordinary doſe for a man is to 20 or 24 grains, ſometimes to 30, but in Fevers twenty grains are as large a doſe as is needfull, and let it be repeated once in twelve, or ſixteen, or 20 hours according as the diſeaſe is violent. The ſame doſe and obſervation in Pluriſies, Ca<g ref="char:EOLhyphen"/>lentures, Meaſels, Purples &amp;c. or any acute diſeaſe that threatens life moſt eminently.</p>
+               <p>Where the party is young or weak, 10 or 8 grains is a doſe, to children very young 3 or 4 grains ſufficient, and may be repeated as occaſion requires, till recovery, which with Gods bleſſing will be in 3 or 4 days, ſometimes in one doſe, or two at moſt, the party ſo reco<g ref="char:EOLhyphen"/>vers as to need no more.</p>
+               <p>In Coughs, and Flixes it is an excellent remedy, taken to bed<g ref="char:EOLhyphen"/>ward either diſsolved or in Pill, and drink a good draught of warm wine after it. The doſe here is as in Feavers, onely the time to bed<g ref="char:EOLhyphen"/>wards, but where the diſeaſe prevails ſo as to make the party keep his bed, give the medicine at any time, forbearing to eat an hour or two after it, and repeat it oftener till recovery, but where the party walks abroad, take it laſt at evening, and lye ſo as to favour ſweat, and re<g ref="char:EOLhyphen"/>peat it onely every night, for 3 or 4 nights together, then forbear 2 or 3 days, and take of true <hi>Ens veneris</hi> 6 or 8 grains, morning and evening, then take this Pill, again 3 or 4 evenings, then <hi>Ens veneris</hi> for 2 or 3 days, ſo continue both till recovery of perfect health, which will with Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s bleſſing be in a ſhort time.</p>
+               <p>In Agues give this Pill 20, 24, or 30 grains at a doſe, about 2 hours before the fit be expected, either diſsolved, or in Pill, and drink a good draught of warm Ale, or burnt wine after it, lye down and keep warm, the cold fit will not at all be felt, and the hot fit will be changed into a ſweat: The intermittent day or days take <hi>Ens veneris</hi> morning and evening eight or ten grains at a doſe.</p>
+               <p>In acute torturing tormenting pains, this is an admirable remedy, reſtoring them if not very deeply fixed, or if fixed, eaſing the horror and rage of the paroxyſme wonderfully, there give it every evening to bedward, and <hi>Ens veneris</hi> in the morning, and if the pain cauſe fe<g ref="char:EOLhyphen"/>veriſhneſs, and that drought, give of ſpirit of Salt 5 or 6 drops in beer, as oft as thirſt calls for it And it is to be obſerved, that if in Chronical caſes recovery be not in 30 or 40 days, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo notable pro<g ref="char:EOLhyphen"/>greſs in recovery, as to give the party hopes, and incouragement to expect a final cure by theſe means, he then ſeeks out for higher re<g ref="char:EOLhyphen"/>medies, of which I ſhall give notice by way of Advertiſement at the end of this Schedul of directions for more ordinary, and general<g ref="char:EOLhyphen"/>ly uſeful ſpecifick preparations.</p>
+               <pb n="5" facs="tcp:51283:3"/>
+               <p>In hyſtericall eaſes this proparation is effectuall, ſuch to wit as are not graduated, and ſo in ſcorbuticall diſſempers, but where an high<g ref="char:EOLhyphen"/>ly graduated or deeply rooted uterine exorbitancy is, or an inveterate Scorbute, there Salt of Steel truly ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and ſweet, or the Salt of Amber, or the volatile tincture of Red Corall equal in ſuch caſes, the higheſt Arcana's, which where need is, I ſhall furniſh the deſirous with all, with full directions for their uſe time, and doſe.</p>
+               <p>And let the ingenuous Reader note, that this Pill is a very general remedy as to ordinary uſe, and ſeldome fails in acute caſes, The ſmal Pox by this given in time, repeated duly and orderly, and the party kept in a ſweating frame, do ſo waſt gradually, as not to fill, yea I have often ſeen where the feveriſhneſe of the ſick party, his dry burning, idle talking, and the like ſymptomes, have threatened very much rigor, and the ſpots have ſo fully appeared, that the Flocks have been feared, yet by taking this medicine, and repeating it once in 12 hours, for the firſt 4 or 5 days, and ſweat being promoted, they have ſo waſted, as that ſcarce 20 or 30 have come to maturity, all the body over, ſo ſew, as onely to let the party know what danger he had eſcaped and that hath been all.</p>
+               <p>But obſerve that when the ſmall Pox have filled, before the Phy<g ref="char:EOLhyphen"/>ſician is called, there give cooling abſterfive remedies, as ſpirit of ſalt and <hi>Ens veneris,</hi> and now and then give of this Pill to ſend out the ma<g ref="char:EOLhyphen"/>lignity, but keep not party in a ſwerting temper then, being unſeaſo<g ref="char:EOLhyphen"/>nable.</p>
+               <p>Now to ſpeak a word or two Concerning the Lues that moderne monſter, the ſoure ſawee of bewitching venery, it is a loathſome di<g ref="char:EOLhyphen"/>ſeaſe, an ſopportune puniſhment for a filthy loathſome ſin. The un<g ref="char:EOLhyphen"/>learned Alchymiſt looked on his medicine with an unreaſonable muiſ<g ref="char:EOLhyphen"/>tiplying glaſs, when he would teach the cure of it thereby. It is an obſtinate diſeaſe, which appears at firſt either in a ſore between the Glandula, and praepuce, or in the running of the reins, the former is the more dangerous, for that ſoon infects the body with ſcabs, Buboes, aches, eating ulcers in the noſe, and throat, nodes in the ſhines &amp;c. and thoſe cauſe horrible nocturnal pains, oftentimes palſies, palpita<g ref="char:EOLhyphen"/>tions, dangerous Coughs &amp;c. the other to wit the Gonorrhaea if old and of long ſtanding, eſpecially if it be the ſecond, third, fourth, or fifth, the party hath had, it becomes each time more and more ob<g ref="char:EOLhyphen"/>ſtinate, for it ſeizes the Radical humidity and though cured, yet leaves its odious relic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s behind, which tranſplant into poſterity, Scro<g ref="char:EOLhyphen"/>phulus, ſcirrous, ſtrumous, Apoſtematicall, ſeeds, hence proceed Chronical diſtempers, which every day grow worſe and worſe, hence
+<pb n="6" facs="tcp:51283:4"/>alſo appear each year new obſtinate diſeaſes to the amazing of Phy<g ref="char:EOLhyphen"/>ſicians.</p>
+               <p>The milder ſort of Gonorrhaea's are cured by this Pill given every night, and <hi>Ens veneris</hi> in the morning for about 10 or 12 ays toge<g ref="char:EOLhyphen"/>ther, ſometimes continued for three weeks, ſo as every fourth day a Pill of Diaceltateſſon be given, omitting the other, and then repeat it again. In caſe of an ulcer, the ſweet oyl of Colchotar of vitriol, or the true <hi>Baſamus fuligi is</hi> of <hi>Helmont</hi> and <hi>Paracelſus</hi> will per<g ref="char:EOLhyphen"/>form perfectly the external cure, and the Pill with <hi>Ens veneris,</hi> and my Diaceltateſſon will compleat what is required internally.</p>
+               <p>But where this diſeaſe is come to its height, there my Diaceltateſſon muſt be given often, every day at firſt, for about a week, then every other day as long, then every third day, and ſo continue till the cure be compleat, and when the Diaceltateſſon is intermitted, give of this Pill at evening, and <hi>Ens veneris</hi> in the morning, cauſing the patient to ſweat ſoundly after the Pill.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>A brief Index or Catalogue of other remedies admirable in ſpecifick caſes, made by</hi> George Starkey <hi>who is a Phyloſopher by fire.</hi>
+               </head>
+               <p>I may ſay confidently that I was the firſt that made this in <hi>England</hi> (that is known) in the year 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>52 I prepared it,
+<note place="margin">
+                     <hi>Ens veneris</hi> or <hi>Elemen<g ref="char:EOLhyphen"/>tum ignis veneris.</hi>
+                  </note> for the Honourable <hi>Robert Boyl</hi> 
+                  <abbr>Eſq</abbr> one of the Royal ſociety, who hath wrote of its ex<g ref="char:EOLhyphen"/>cellency, as his extant Treatiſe thereof can teſtifie. Of this <hi>Helmont</hi> truly ſaith, nothing works more powerfully on the radical humidity then it, it is moſt excellent in feminine diſeaſe, eſpecially menſtrual ſtoppages, rickets of children, lingring fevers, obſtructions of the ſpleen and meſaraicks, but eſpecially for women after childbed, taking away after pains to admiration, helping their cleanſings ſo kindly, and without violence, as is admirable, and hindring all feveriſh ſymp<g ref="char:EOLhyphen"/>tomes to which many women after travel are ſubject, to the incredi<g ref="char:EOLhyphen"/>ble eaſe and comfort of them, but this I muſt aſſure thoſe that are concerned, that what I made in 16<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1, for the Honorable <hi>Robert Boyl</hi> 
+                  <abbr>Eſq</abbr> and and is by him commended, is ſo inferiour a preparation to that as is made by me now, that the former deſerves not the ſame name with this latter, which is yellow as the pureſt gold, and in taſte rich of the Venus, ſo that it exceeds the other beyond all compariſon, and nearer approaches the Element of fire of Venus. This I adde not to diſcommend the former, but to ſhew the difference between that and this.</p>
+               <p>This is a higher gradation of the former preparation by ſeparating the ſulpher from the white metal of Copper, which will abide fuſion hammer and teſt, and is white as Luna, though yet differing from it,
+<pb n="7" facs="tcp:51283:4"/>and totally dulcifying the ſaline nature from the ſulſur,
+<note place="margin">The ſweet an<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y<g ref="char:EOLunhyphen"/>nous fixed Sul<g ref="char:EOLhyphen"/>fur or true Ele<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fire of Venus.</note> by which it was prepared, advanced, and perfected. This is the <hi>Nepenthes verum</hi> of the Phyloſophers, the true <hi>Ladanum</hi> without <hi>Opium,</hi> lengthening the life by Gods permiſſion, and conquering powerfully monſtrous tragical maladies, ſuch as the Epilepſie, A poplexy, Palſie, Coma, Vertigo, madneſs Hypocondriack melancholy, and uterine <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>renſies, with ſeveral other like diſeaſes to the ſtupefaction of nature, of this and Mercury, is made the Horizontal Gold that is truly and perfectly univerſal.</p>
+               <p>In the <hi>Belgick</hi> Edition of <hi>Helmonts</hi> works under the itle of preparation of medi<g ref="char:EOLhyphen"/>cines, mention is made of a middle Diaceltateſſon, which is Antimonial,
+<note place="margin">A <hi>double dia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>el<g ref="char:EOLhyphen"/>tateſſon, firſt the media via of it a cording to</hi> Helmont.</note> and pur<g ref="char:EOLhyphen"/>geth only, this I call my Diaceltateſſon Commune, and it is excellent in Chto<g ref="char:EOLhyphen"/>nick diſeaſes to give every third day or every other day to the quantity of 30 or 24 grains in two Pills, and my ſweating Pill the other day at eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing with <hi>Ens venesis</hi> in the morning, the party may go abroad in the afternoon avoiding in<g ref="char:EOLhyphen"/>temperancy if the day be clear when he takes it.</p>
+               <p>The other Dinceltareſſon is my true Corallatum, curing radically the Gout,
+<note place="margin">
+                     <hi>The true diacel<g ref="char:EOLhyphen"/>tateſs on or Cora<g ref="char:EOLhyphen"/>latum of</hi> Para<g ref="char:EOLhyphen"/>celſus <hi>and</hi> Hel<g ref="char:EOLhyphen"/>mont.</note> Lues, and all ulcers in the throat, lungs, bladder, and kidneys, as alſo it roots out all Agues; and hectical fevers (though never ſo inveterate<g ref="char:punc">▪</g> where the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill and <hi>Ens veneris</hi> fail, this given every day, or other, or third day with an inferi<g ref="char:EOLhyphen"/>our abſtreſive medicine between, will cure the moſt deplorable maladies, and is a true <hi>Arcanum,</hi> though not ſo highly excel lent as the Horizontal God &amp;c</p>
+               <p>There are alſo volatile Spirits of Alcalays, eſpecially of Tartar, and Tabacco,
+<note place="margin">Vibatile Alcaly of Tactar &amp;c.</note> which as <hi>Helm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt</hi> ſaith truly, do cleanſe all obſtructious in the veins, and cut off the occaſional cauſes, of moſt diſeaſes, eſpecially if coagulated upon diſſolved Concrets, of theſe the Elogy of <hi>Paracelſus</hi> and <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> is true, that where that reacheth no other thing that is more powerful will reach, it cures then by an uni<g ref="char:EOLhyphen"/>verſal abſtteſion, and mundifying the veſſels, and performs the deſire of a care<g ref="char:EOLhyphen"/>ful Phyſician, to the great comfort of the patient, the doſe is from 10 to 20 or 30 drops, in whitewine or Ale faſting.</p>
+               <p>In Hiſterical diſtempers there is great variety,
+<note place="margin">The eſience of Amber, Salt of Steel, and v<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>tile <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ct<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re of red Corall.</note> for the uterus in the feminine ſex is not unfitly called by Phyſicians <hi>(animal furio<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um)</hi> for it is in its extravagant exorbitancies ſtrangely operative in women cauſing all ſorts of diſeaſes, as palpi<g ref="char:EOLhyphen"/>tations, vertignes, Epilep<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s palſies, with other diſtempers, and is exaſperated by love, anger, grief, frights and all paſſions, in theſe caſes the Salt of Steel (I mean the magiſterial Salt of it) in which the whole ſubſtance of ſteel is by an Al<g ref="char:EOLhyphen"/>chacheſtical preparation reſolved into a Magiſtery, ſo a ſo the Eſſence of Amber, and the volatile tincture of red Corall are appropriated ſpeciſicks, that equal the grand Arcana, the doſe of Salt of ſteel is 20 grains, of
+<note n="*" place="margin">
+                     <hi>Note this is not the oylof Amber but the whole Amber <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>duced to a magi<g ref="char:EOLhyphen"/>ſterial eſs nt all ſalt, onely that ph<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oyme<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſe era<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ed an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> this w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>hout em<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yrheume by the C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rcula<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>m maius of</hi> Hel<g ref="char:EOLhyphen"/>mont <hi>and</hi> para<g ref="char:EOLhyphen"/>celſus.</note> Eſſence of Amber from 8 to 16 grains, of the volatile Tincture of Corall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 drops, and they are alſo admi<g ref="char:EOLhyphen"/>rable Scorbutick Splenetick, and pulmoniack remedies in both ſexes.</p>
+               <p>Theſe with ſeveral other ſpecifick abſterſives, as ſpirit of ſalt, ſpirit of Sulphur vive, the eſſential ſulphurous ſpirit of vitriol of Venus, Antimony, and other bo<g ref="char:EOLhyphen"/>dies, with the Magiſtery and ſpirit of Saturn, are truly prepared by <hi>Geo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Star<g ref="char:EOLhyphen"/>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> and as occaſion offers are to be had of him with larger direction, for the uſe</p>
+               <p>But my Pill and true <hi>Ens venesis</hi> being of the moſt large and general uſe, I re<g ref="char:EOLhyphen"/>ſolve to expoſe them to publick ſale, and they may be had at the Authors near the Exchange in Bartholomew lane, by the Exciſe Office, at Mr. <hi>Daſarnes</hi> an Ac<g ref="char:EOLhyphen"/>comptant, and at Mr. <hi>Samuel Watſons</hi> at t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Coffee houſe at Ave Mary lane on Ludgate hill, and at Mr. <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> a Coſſee houſe hext door to the Whalchone in Lothbury, and at Mr. <hi>Livewell Chapman.</hi> Stationer in Exchange Alley near
+<pb n="8" facs="tcp:51283:5"/>Cornhill, and at the ſign of <hi>Mara</hi> the great, a Coffee houſe in Exchange All<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and at Mr. <hi>Needle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> on Tower wharfe</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>Courteous Reader, <hi>I deſire thy Candor in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udgment, not to imagine that I write here notionall conceipts, and apprehenſions, but really what I have done, can doe, and have at Command the true keyes to effects and performe, the Horizontall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>old I ſhall be master of Ere long, with other Arcanas as the Tinctura L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>li, the Metallus Maſculus, its Tin<g ref="char:EOLhyphen"/>cture reduced to a</hi> Vinum Vitae, <hi>the milke or Element of Pearl, but I muſt make things ſucceſsively, and every true Arcanum is truly tedious in preparation, thoſe therefore I ſhall at preſent only diſpoſe of myſelfe, leaving the two forementioned Medicines of my true pill, and ſincerely prepared</hi> Ens veneris at <hi>the places above mentioned, for they are the moſt generall in virtue and to be made in greateſt quanti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Other ſpecificks, which in Caſes to which they are appropriated, Equall the A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cana, as Tincture of Corall, the Magiſteriall ſalt of Amber &amp;c. in womens diſ<g ref="char:EOLhyphen"/>tempers, and in anxie<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of the ſpleen in both ſexes, as alſo in ſcorbutick C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſes, and inueterate Jaundies, ſo the lacteous liqvor of Cra<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es for lin<g ref="char:EOLhyphen"/>gring <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abid fevers, the afterpains of Women in Child bed, &amp;c. with ſeverall other ſpecificks which paper and time will not give me leave to inſtance by name, ſhall be diſpoſed only by myſelfe, becauſe in them there is a choyce, where ſeverall belong to the ſame Caſes, which my experience of them will enable me better to informe ſuch as would uſe them to make choyce of accordingly, then they can adviſe themſelves, Therefore in caſes where the pill and</hi> Ens veneris <hi>Either faile, or promote the Cure but ſlowly, upon notice by writing I ſhall Conce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling the name of both pa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ient and Doctor</hi> Candidly, <hi>give my advice and counſell in publique writing, and ſhall upon ſuch Emergencyes, have occaſion of adviſing, reſtrayning altering or otherwiſe varying the adminiſt ation of ſpecifick remedyes, according as by eighteen yeares practiſe both in the fire, and in the Art of Medicine I have been inſtructed, and where the Extremity of diſeaſe cuts of all hopes of ſpecificks, there I ſhall adviſe and ſupply true univer<g ref="char:EOLhyphen"/>ſall, of the higheſt gradation, and not otherwiſe, they being difficult and tedious to prepare, and</hi> Fruſtra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>per plura fit, quod fieri poteſt per pauciora <hi>nor will ſcarce the ſortreth diſeaſe, that ſhall be met with in practiſe require any other remedy; then my pill,</hi> Ens veneris <hi>and dia<g ref="char:EOLhyphen"/>celtateſſon, which laſt will rarely be abſolutely needed, but where it is, I ſhall (and am provided to) ſupply ſuch as deſire it.</hi>
+            </p>
+            <p>George Starkey,
+<note place="margin">An add<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ional a<gap reason="illegible" resp="#MURP" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>iſer <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>known by the title of Phyloſopher by the fire.</hi>
+            </p>
+            <p>Alſo for the ſtone is to be had the Ludus of <hi>Helm<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> truly prepared, by the ſame <hi>George S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> of whoſe virtues none that hath Read <hi>Helm<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t</hi> but is in<g ref="char:EOLhyphen"/>ſtructed, the doſe 20 drop, which cures it radically, both in the Kidneys and bladder, and takes away all ſuture inclinations thereto.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <pb facs="tcp:51283:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
